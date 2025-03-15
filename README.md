@@ -6,3 +6,7 @@ Check out the various options at the official [documentation](https://jokeapi.de
 
 ### Dependencies
 This library depends on laytan's [HTTP library](https://github.com/laytan/odin-http)
+
+### TODO]
+- [ ] Return actual errors
+- [ ] Support passing the API token
